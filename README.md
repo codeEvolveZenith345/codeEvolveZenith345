@@ -104,11 +104,23 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 📊 GitHub Stats  
-![Metrics](https://github.com/codeEvolveZenith345/codeEvolveZenith345/blob/master/github-metrics.svg)<br>
-![](https://github-readme-stats.vercel.app/api?username=codeEvolveZenith345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeEvolveZenith345&theme=tokyonight&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeEvolveZenith345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=codeEvolveZenith345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeEvolveZenith345&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeEvolveZenith345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=codeEvolveZenith345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
