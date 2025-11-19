@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-<table>
-<tr>
-<td width="70%" valign="top">
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>  
 🌱 I'm currently learning Full Stack Development.<br>  
@@ -14,18 +11,7 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/aditya-tiwari-141bb3293/">LinkedIn</a>
 😄 Pronouns: He/Him<br>  
 
-</td>
-<td width="30%" valign="top" align="center">
 
-<!-- Replace with GIF or live hosted animation -->
-<a href="https://adityatiwari342005.github.io/Enhance_Profile_Readme/">
-  <img src="assests/Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif" width="400" />
-</a>
-
-
-</td>
-</tr>
-</table>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
