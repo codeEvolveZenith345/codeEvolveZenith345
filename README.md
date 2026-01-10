@@ -1,15 +1,21 @@
 # 💫 About Me:  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="center" style="display:inline-block; transform: scale(1.5); transform-origin: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robotic+Code&pause=1200&color=00AA00&center=true&vCenter=true&width=435&lines=Lakshya+Saxena;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>  
-🌱 I'm currently learning Full Stack Development.<br>  
-👯 I'm looking to collaborate on Open Source projects.<br>  
-🤔 I'm looking for help with DevOps and Cloud Technologies.<br>  
+🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>    
 💬 Ask me about Web Development, Programming, or anything tech-related!<br>  
-📫 How to reach me: <a href="https://www.linkedin.com/in/aditya-tiwari-141bb3293/">LinkedIn</a>
+📫 How to reach me: **lakshyasxn7351@gmail.com**<br>  
 😄 Pronouns: He/Him<br>  
+
+<!-- Replace with GIF or live hosted animation -->
+<!-- <a href="https://codeEvolveZenith345.github.io/Enhance_Profile_Readme/"> -->
+  <!-- <img src="assests/images.png" width="400" height="190"/> -->
+<!-- </a> -->
+---
+
+### Holopin Dashboard
+<img src="./holopin.png">
 
 
 
@@ -19,12 +25,12 @@
 # Socials
 
 <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; width:100%; flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/aditya-tiwari-141bb3293/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <a href="https://www.linkedin.com/in/lakshya-saxena-765a84282/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn" height="42" />
   </a>
 
-  <a href="mailto:adityatiwari342005@gmail.com" style="display:inline-block;">
+  <a href="mailto:lakshyasxn7351@gmail.com" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Gmail" height="42" />
   </a>
@@ -34,14 +40,19 @@
          alt="GitHub" height="42" />
   </a>
 
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <!-- <a href="https://aditya-tiwari-portfolio345.vercel.app/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
          alt="Portfolio" height="42" />
-  </a>
+  </a> -->
 </div>
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=codeEvolveZenith345&limit=25&theme=tokyonight&combine_all_yearly_contributions=true)
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif) -->
+
 
 ## 💻 Tech Stack   
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black) 
@@ -97,34 +108,4 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-### Holopin Dashboard
-[![Holopin Badges](https://www.holopin.me/@adityatiwari342005)](https://www.holopin.io/@adityatiwari342005)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codeEvolveZenith345&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeEvolveZenith345&theme=tokyo-night&hide_border=true)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=codeEvolveZenith345&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
-## 📊 GitHub Activity Overview  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeEvolveZenith345&theme=github_dark)  
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
