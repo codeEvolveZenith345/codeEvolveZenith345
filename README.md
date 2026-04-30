@@ -1,6 +1,6 @@
 # 💫 About Me:  
 <p align="center" style="display:inline-block; transform: scale(1.5); transform-origin: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Robotic+Code&pause=1200&color=00AA00&center=true&vCenter=true&width=435&lines=Lakshya+Saxena;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robotic+Code&pause=1200&color=00AA00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 🔭 I'm currently working on projects that solve real-life problems and make the world a better place.<br>    
